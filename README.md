@@ -1,0 +1,2 @@
+# solid_d4rpl2a
+PRAKTIKUM DESAIN PERANGKAT LUNAK - SOLID principles
